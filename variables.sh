@@ -1,0 +1,13 @@
+export BASE_IMAGE="vauxoo/odoo-150-image"
+export DOCKER_IMAGE_REPO="quay.io/vauxoo/mecatronica"
+export PSQL_VERSION="11"
+export VERSION="15.0"
+export ODOO_REPO="vauxoo/odoo"
+export ODOO_BRANCH="15.0"
+export MAIN_APP="rfid_m6enano"
+export TRAVIS_PYTHON_VERSION="3.8"
+export TRAVIS_REPO_SLUG="Vauxoo/"
+export COUNTRY="MX"
+export CUSTOMER="vauxoo"
+export COVERAGE_MIN=80
+export COVERAGE_PRECISION=2
